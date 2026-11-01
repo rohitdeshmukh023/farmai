@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+models/*.keras
+models/*.h5
+plant_dataset/raw/**/*.jpg
+plant_dataset/raw/**/*.jpeg
+plant_dataset/raw/**/*.png
+plant_dataset/raw/**/*.webp
+plant_dataset/train/
+plant_dataset/test/
+.streamlit/
